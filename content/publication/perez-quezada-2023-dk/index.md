@@ -1,0 +1,36 @@
+---
+title: Indicators of ecosystem degradation along an elevational gradient in the Mediterranean
+  Andes
+authors:
+- Jorge F Perez-Quezada
+- Javier Lopatin
+- Marı́a R Donoso
+- Cristian Hurtado
+- Ivan Reyes
+- Oscar Seguel
+- Horacio E Bown
+date: '2023-09-01'
+publishDate: '2024-03-12T21:58:37.476791Z'
+publication_types:
+- article-journal
+publication: '*Ecol. Indic.*'
+abstract: Successful restoration measures need a good understanding of how the composition,
+  structure, and functioning of ecosystems change with degradation and what the best
+  indicators of these changes are. To answer these questions, we worked on four ecosystem
+  types in the Mediterranean Andes mountains in central Chile (from sclerophyllous
+  forest to Andean shrublands), which represent an elevational gradient from 700 to
+  3,250 m. We sampled three plots on each of the three degradation levels (low, medium,
+  and high) for each ecosystem at increasing distances from goat corrals. We measured
+  35 indicators that describe vegetation (14), soil (15), and ecosystem processes
+  (6) for one growing season. Degradation caused a decrease in shrub cover, shrub
+  productivity, the Normalized Community Structure Integrity Index (CSIIn), litter
+  depth, total soil nitrogen and C/N ratio, and an increase in clay content. Plant
+  species indicating low degradation were consistently native woody species. When
+  comparing ecosystems (i.e., at different elevations) against the type of variable,
+  process-based indicators showed more statistically significant differences. Based
+  on their consistency across ecosystems and ease of measurement, we recommend using
+  shrub cover and litter depth as indicators of degradation. Finally, we concluded
+  that ecosystems are highly degraded when vegetation- and process-based indicators
+  change ∼ 60% or when soil indicators change ∼ 25%. These results could also be used
+  to set goals for restoration projects in these mountain ecosystems.
+---

@@ -1,0 +1,31 @@
+---
+title: Using a Multistructural Object-Based LiDAR Approach to Estimate Vascular Plant
+  Richness in Mediterranean Forests With Complex Structure
+authors:
+- Javier Lopatin
+- Mauricio Galleguillos
+- Fabian E Fassnacht
+- Andrés Ceballos
+- Jaime Hernández
+date: '2015-05-01'
+publishDate: '2024-03-12T21:58:37.526424Z'
+publication_types:
+- article-journal
+publication: '*IEEE Geoscience and Remote Sensing Letters*'
+abstract: 'A multistructural object-based LiDAR approach to predict plant richness
+  in complex structure forests is presented. A normalized LiDAR point cloud was split
+  into four height ranges: 1) high canopies (points above 16 m); 2) middle-high canopies
+  (8-16 m); 3) middle-low canopies (2-8 m); and 4) low canopies (0-2 m). A digital
+  canopy model (DCM) was obtained from the full normalized LiDAR point cloud, and
+  four pseudo-DCMs (pDCMs) were obtained from the split point clouds. We applied a
+  multiresolution segmentation algorithm to the DCM and the four pDCMs to obtain crown
+  objects. A partial least squares path model (PLS-PM) algorithm was applied to predict
+  total vascular plant richness using object-based image analysis (OBIA) variables,
+  derived from the delineated crown objects, and topographic variables, derived from
+  a digital terrain model. Results showed that the object-based model was able to
+  predict the total richness with an r2 of 0.64 and a root-mean-square error of four
+  species. Topographic variables showed to be more important than the OBIA variables
+  to predict richness. Furthermore, high-medium canopies (8-16 m) showed the biggest
+  correlation with the total plant richness within the structural segments of the
+  forest.'
+---

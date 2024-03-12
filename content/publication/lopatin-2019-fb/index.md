@@ -1,0 +1,39 @@
+---
+title: Using aboveground vegetation attributes as proxies for mapping peatland belowground
+  carbon stocks
+authors:
+- Javier Lopatin
+- Teja Kattenborn
+- Mauricio Galleguillos
+- Jorge F Perez-Quezada
+- Sebastian Schmidtlein
+date: '2019-01-01'
+publishDate: '2024-03-12T21:58:37.549356Z'
+publication_types:
+- article-journal
+publication: '*Remote Sens. Environ.*'
+abstract: 'Peatlands are key reservoirs of belowground carbon (C) and their monitoring
+  is important to assess the rapid changes in the C cycle caused by climate change
+  and direct anthropogenic impacts. Frequently, information of peatland area and vegetation
+  type estimated by remote sensing has been used along with soil measurements and
+  allometric functions to estimate belowground C stocks. Despite the accuracy of such
+  approaches, there is still the need to find mappable proxies that enhance predictions
+  with remote sensing data while reducing field and laboratory efforts. Therefore,
+  we assessed the use of aboveground vegetation attributes as proxies to predict peatland
+  belowground C stocks. First, the ecological relations between remotely detectable
+  vegetation attributes (i.e. vegetation height, aboveground biomass, species richness
+  and floristic composition of vascular plants) and belowground C stocks were obtained
+  using structural equation modeling (SEM). SEM was formulated using expert knowledge
+  and trained and validated using in-situ information. Second, the SEM latent vectors
+  were spatially mapped using random forests regressions with UAV-based hyperspectral
+  and structural information. Finally, this enabled us to map belowground C stocks
+  using the SEM functions parameterized with the random forests derived maps. This
+  SEM approach resulted in higher accuracies than a direct application of a purely
+  data-driven random forests approach with UAV data, with improvements of r2 from
+  0.39 to 0.54, normalized RMSE from 31.33% to 20.24% and bias from −0.73 to 0.05.
+  Our case study showed that: (1) vegetation height, species richness and aboveground
+  biomass are good proxies to map peatland belowground C stocks, as they can be estimated
+  using remote sensing data and hold strong relationships with the belowground C gradient;
+  and (2) SEM is facilitates to incorporate theoretical knowledge in empirical modeling
+  approaches.'
+---
