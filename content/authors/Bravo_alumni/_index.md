@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student - Master of Science in Data Science, UAI. 
+role: Master of Science in Data Science, UAI. 
 
 # Organizations/Affiliations
 organizations:

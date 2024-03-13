@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student in Data Science
+role: PhD student in Data Science
 
 # Organizations/Affiliations
 organizations:
