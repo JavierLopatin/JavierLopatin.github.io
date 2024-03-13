@@ -28,12 +28,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Whant to work with us?
+        content: 'Write us about you research idea'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: lidar.jpg
             filters:
               brightness: 0.5
           position: center
