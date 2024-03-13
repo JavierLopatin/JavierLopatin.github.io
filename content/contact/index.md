@@ -13,15 +13,15 @@ sections:
       email: javier.lopatin@uai.cl
       phone: 9-72641924
       address:
-        street: 450 Serra Mall
+        street: Diagonal las Torres 2640, Peñalolén
         city: Santiago
         region: RM
-        postcode: '94305'
+        postcode: ''
         country: Chile
         country_code: CH
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '-70.514390'
+        longitude: '-33.489713'
       directions: Biulding E, office 313
       office_hours:
         - 'Monday 10:00 to 13:00'
