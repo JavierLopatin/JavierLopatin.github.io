@@ -76,8 +76,7 @@ email: 'denis.berroeta@uai.cl'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - PhDs
 ---
 
 Denis Berroeta is a researcher and analyst specialized in territorial projects using geostatistics and artificial intelligence methodologies. He has extensive experience in spatial data modeling and analysis, participating in various public and private research projects. He has led the design and implementation of spatial data analysis methodologies in different contexts.
