@@ -74,6 +74,6 @@ user_groups:
   - PhDs
 ---
 
-Alejandra finished her master thesis entitled “Detecci on de Pinus radiata a partir de imagenes capturadas por drones utilizando redes neuronales convolucionales”,with the supervison of Sebastian Moreno (https://ingenieria.uai.cl/profesor/sebastian-moreno/). The manuscript can be access [here](https://drive.google.com/file/d/1-p9pdRN4fQx7-DCaLf8lcIIHDoWDOezv/view?usp=drive_link).
+Alejandra finished her master thesis entitled “Detection of _Pinus radiata_ from drone imagery using convolutional neural networks”,with the supervison of Sebastian Moreno (https://ingenieria.uai.cl/profesor/sebastian-moreno/). The manuscript can be access [here](https://drive.google.com/file/d/1-p9pdRN4fQx7-DCaLf8lcIIHDoWDOezv/view?usp=drive_link).
 
 For her PhD., Alejandra focuses on studying the transferability of models based on remotely sensed data with particular spatial variability. Specifically, she uses a methodology based on transfer learning with model convolutional neural network (CNN) architecture in order to establish the possibilities and limits of using the models in new areas different from the data used to train them.
