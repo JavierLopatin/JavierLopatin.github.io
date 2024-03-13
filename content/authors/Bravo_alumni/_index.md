@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student
+role: Master student - Master of Science in Data Science, UAI. 
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include remote sensing and convolutional neural networks.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote Sensing
+  - Bio-informatics
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhDs
+  - Alumni
 ---
 
-Ecologo de yale.... 
+M. Alejandra finished her master thesis entitled "Detecci  ́on de Pinus radiata a partir de im  ́agenes capturadas por drones utilizando redes neuronales convolucionales" with the supervison of Sebastian Moreno (https://ingenieria.uai.cl/profesor/sebastian-moreno/). The manuscript can be access [here](https://drive.google.com/file/d/1-p9pdRN4fQx7-DCaLf8lcIIHDoWDOezv/view?usp=sharing).
