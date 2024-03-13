@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: UAI_EO_purple.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.5
           position: center
