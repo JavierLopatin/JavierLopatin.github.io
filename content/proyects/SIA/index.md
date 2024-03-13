@@ -1,10 +1,10 @@
 ---
-title: Fondecyt Iniciación 11241088 (2024-2027)
+title: Fondecyt REC SA77210031 (2022-2025)
 
-event: Fondecyt Iniciación
+event: Subvención a la Instalación en la Academia
 event_url: ''
 
-location: Petorca, Chile
+location: Mapocho, Chile
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -12,13 +12,13 @@ location: Petorca, Chile
 #  postcode: ''
 #  country: Chile
 
-summary: Fondecyt Iniciación 11241088
-abstract: 'Upscaling Ecosystem Resilience to Climate Change in a Mediterranean Ecosystem of Chile using Remote Sensing'
+summary: Subvención a la Instalación en la Academia (SIA) SA77210031
+abstract: 'Efecto de la vegetación en la retroalimentación tierra-atmósfera en la zona mediterránea de Chile'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-01T13:00:00Z'
-date_end: '2027-03-31T15:00:00Z'
+date: '2022-04-01T13:00:00Z'
+date_end: '2024-03-31T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -54,4 +54,4 @@ slides:
 projects:
 ---
 
-The project "Upscaling Ecosystem Resilience to Climate Change in a Mediterranean Ecosystem of Chile using Remote Sensing" will run from 2024-2027. Its objectives are: i) to assess the direct and indirect impacts of plant functional response diversity on ecosystem resilience via soil-atmosphere feedbacks; ii) to upscale plant functional response diversity, soil-atmosphere feedbacks and ecosystem resilience to a landscape scale by integrating field sampling and drone with satellite data; and iii) to assess the potential impacts of future plant functional response diversity and soil-atmosphere feedbacks on ecosystem resilience for a range of climate change scenarios.
+El proyecto "Efecto de la vegetación en la retroalimentación tierra-atmósfera en la zona mediterránea de Chile" tiene como objetivo comprender cómo los procesos que gobiernan el contínuo suelo-vegetación-atmósfera del bioma Mediterráneo modulan las retroalimentaciones tierra-atmósfera bajo escenarios de cambio climático a escala local. Los objetivos específicos son: i) evaluar las retroalimentaciones tierra－atmósfera en vegetación mediterránea, ii) identificar rasgos o atributos vegetacionales que funcionen cómo proxies de retroalimentaciones tierra－atmósfera, y iii) generar metodologías robustas para estimar retroalimentaciones tierra－atmósfera en el tiempo y el espacio usando datos satelitales.
