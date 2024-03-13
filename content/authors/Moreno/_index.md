@@ -77,4 +77,4 @@ user_groups:
   - Researchers
 ---
 
-Javier has worked as a researcher at the University of Chile and at the Karlsruhe Institute of Technology (Germany). His research areas focus on landscape ecology and ecosystem ecology, using satellite and drone remote sensing data. Some of his research topics include biodiversity estimates, ecosystem properties and functions such as biomass and belowground carbon, floristic composition of plant communities, detection of invasive species, fires, and land use changes, among others, using machine and deep learning methods.
+Moreno... 
