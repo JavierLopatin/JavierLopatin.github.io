@@ -1,8 +1,8 @@
 ---
 title: Investigadores de Ingeniería y Ciencias UAI se adjudican proyectos en FONDECYT de Iniciación 2024
-date: 2024-12-01
+date: 2024-01-12
 image:
-  focal_point: 'top'
+  focal_point: ''
 ---
 
 
