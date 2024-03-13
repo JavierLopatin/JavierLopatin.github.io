@@ -19,6 +19,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - Assistents and Proyect managers
       sort_by: Params.last_name
       sort_ascending: true
     design:
