@@ -14,8 +14,8 @@ sections:
           - Principal Investigators
           - Researchers
           - Colaborators
-          - PhD
-          - Master
+          - PhDs
+          - Masters
           - Administration
           - Visitors
           - Alumni

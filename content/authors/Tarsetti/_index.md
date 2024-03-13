@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nicole Olguin
+title: Ítalo Tarsetti
 
 # Full name (for SEO)
-first_name: Nicole
-last_name: Olguin
+first_name: Ítalo
+last_name: OlgTarsettiuin
 
 # Username (this should match the folder name)
 authors:
-  - Olguin
+  - Tarsetti
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Proyect manager
+role: Master student - Master in Science of Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Assistents and Proyect managers
+  - Masters
 ---
 
 Ecologo de yale.... 
