@@ -1,6 +1,6 @@
 ---
 title: Cerramos el Proeycto Fondef IdeA I+D SAMSARA!
-date: 2020-12-02
+date: 2023-12-14
 image:
   focal_point: 'top'
 ---
