@@ -6,6 +6,10 @@ title: Javier Lopatin
 first_name: Javier
 last_name: Lopatin
 
+# Username (this should match the folder name)
+authors:
+  - admin
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -18,7 +22,7 @@ organizations:
     url: 'https://ingenieria.uai.cl/profesor/javier-lopatin/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: He has worked as a researcher at the University of Chile and at the Karlsruhe Institute of Technology (Germany). His research areas focus on landscape ecology and ecosystem ecology, using satellite and drone remote sensing data. Some of his research topics include biodiversity estimates, ecosystem properties and functions such as biomass and belowground carbon, floristic composition of plant communities, detection of invasive species, fires, and land use changes, among others, using machine and deep learning methods.
+bio: My research interests include plant traits, ecosystem processes, phenology, and time series
 
 interests:
   - Plant Traits
