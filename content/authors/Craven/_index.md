@@ -48,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'dylan.craven@umayor.cl'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DylanJCraven
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=es&user=rz2vROgAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dylancraven
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'dylan.craven@umayor.cl'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,4 +73,5 @@ user_groups:
   - Researchers
 ---
 
-Ecologo de yale.... 
+Ecologist, Yale University (School of the Environment)
+Dylan researches temporal and spatial patterns of biodiversity and their implications, and uses approaches from functional ecology and macroecology to address these issues. Dylan is also affiliated with the Data Observatory, where he seeks to advance a new model of science focused on the use of open data to enhance biodiversity research in Chile. For more information on his research interests, see his publications page, or contact Dylan by email (dylan.craven@umayor.cl).
