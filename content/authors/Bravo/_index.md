@@ -1,10 +1,10 @@
 ---
 # Display name
-title: María Alejandra Bravo
+title: Alejandra Bravo-Diaz
 
 # Full name (for SEO)
-first_name: María Alejandra
-last_name: Bravo
+first_name: Alejandra
+last_name: Bravo-Diaz
 
 # Username (this should match the folder name)
 authors:
@@ -14,39 +14,51 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student in Data Science. 
+role: PhD. student in Data Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad Adolfo Ibáñez
+  - name: Adolfo Ibáñez University 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include remote sensing and convolutional neural networks.
+bio: Alejandra Bravo-Diaz focuses on studying the transferability of models based on remotely sensed data with particular spatial variability. Specifically, she uses a methodology based on transfer learning with model convolutional neural network (CNN) architecture in order to establish the possibilities and limits of using the models in new areas different from the data used to train them.
 
 interests:
-  - Artificial Intelligence
-  - Remote Sensing
-  - Bio-informatics
+- Remote sensing 
+- Data science 
+- Machine learning 
+- Deep learning
 
+education:
+  courses:
+    - course: PhD Student in Data Science
+      institution: Adolfo Ibáñez University 
+      year: Actually
+    - course: Master of Science in Data Science
+      institution: Adolfo Ibáñez University 
+      year: 2022
+    - course: Engineering in bioinformatics
+      institution: University of Talca 
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:bravoa863@gmail.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: ''
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: ''
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: ''
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: ''
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +74,6 @@ user_groups:
   - PhDs
 ---
 
-M. Alejandra finished her master thesis entitled "Detecci  ́on de Pinus radiata a partir de im  ́agenes capturadas por drones utilizando redes neuronales convolucionales" with the supervison of Sebastian Moreno (https://ingenieria.uai.cl/profesor/sebastian-moreno/). The manuscript can be access [here](https://drive.google.com/file/d/1-p9pdRN4fQx7-DCaLf8lcIIHDoWDOezv/view?usp=sharing).
+M. Alejandra finished her master thesis entitled “Detecci ́on de Pinus radiata a partir de im ́agenes capturadas por drones utilizando redes neuronales convolucionales” with the supervison of Sebastian Moreno (https://ingenieria.uai.cl/profesor/sebastian-moreno/). The manuscript can be access [here](https://drive.google.com/file/d/1-p9pdRN4fQx7-DCaLf8lcIIHDoWDOezv/view?usp=drive_link).
+
+For her PhD., M. Alejandra focuses on studying the transferability of models based on remotely sensed data with particular spatial variability. Specifically, she uses a methodology based on transfer learning with model convolutional neural network (CNN) architecture in order to establish the possibilities and limits of using the models in new areas different from the data used to train them.
