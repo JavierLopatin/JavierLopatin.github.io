@@ -8,7 +8,7 @@ last_name: Lopatin
 
 # Username (this should match the folder name)
 authors:
-  - admin
+  - Lopatin
 
 # Is this the primary user of the site?
 superuser: true
