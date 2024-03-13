@@ -1,16 +1,10 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Cerramos el Proeycto Fondef IdeA I+D SAMSARA!
 date: 2020-12-02
 image:
   focal_point: 'top'
 ---
 
-Cerramos el Proeycto Fondef IdeA I+D SAMSARA!
-
-<!--more-->
-
-permite usar imágenes satelitales para la fiscalización medioambiental
-19 de Enero 2024 Noticias  Sostenibilidad  Vinculación con el Medio
 
 En el marco de la finalización del proyecto FONDEF IDEA I+D “Sistema de Alerta y Monitoreo Satelital de Áreas de Relevancia Ambiental: casos de estudio en humedales urbanos, turberas y bosque esclerófilo” (SAMSARA, ID21I10102), realizado por investigadores de la Facultad de Ingeniería y Ciencias y la Escuela de Gobierno de la Universidad Adolfo Ibáñez (UAI), junto con la Superintendencia del Medio Ambiente y el Data Observatory, el Servicio de Evaluación Ambiental y el Ministerio del Medio Ambiente, se organizó una jornada de cierre para dar a conocer los principales resultados obtenidos.
 
