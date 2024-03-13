@@ -20,8 +20,8 @@ sections:
         country: Chile
         country_code: CH
       coordinates:
-        latitude: '-70.514390'
-        longitude: '-33.489713'
+        latitude: '-33.489713'
+        longitude: '-70.514390'
       directions: Biulding E, office 313
       office_hours:
         - 'Monday 10:00 to 13:00'
