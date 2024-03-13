@@ -22,7 +22,7 @@ date_end: '20327-03-31T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2024-03-13T00:00:00Z'
 
 authors: []
 tags: []
