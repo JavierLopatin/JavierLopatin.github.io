@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Proyect manager
+role: PhD student in Data Science
 
 # Organizations/Affiliations
 organizations:
