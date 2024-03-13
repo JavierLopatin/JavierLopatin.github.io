@@ -6,8 +6,12 @@ title: Javier Lopatin
 first_name: Javier
 last_name: Lopatin
 
+# Username (this should match the folder name)
+authors:
+  - Lopatin
+
 # Is this the primary user of the site?
-superuser: true
+superuser: fasle
 
 # Role/position
 role: Assist. Prof. of Remote Sensing
