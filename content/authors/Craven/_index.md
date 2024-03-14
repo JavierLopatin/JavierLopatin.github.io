@@ -25,21 +25,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Functional Ecology
+  - Biogeography
+  - Spatial Modeling
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in rer. nat.
+      institution: Yale University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,5 +73,5 @@ user_groups:
   - Top Colaborators
 ---
 
-Ecologist, Yale University (School of the Environment)
+Ecologist, Yale University (School of the Environment). Webpage: https://www.dylancraven.com/
 Dylan researches temporal and spatial patterns of biodiversity and their implications, and uses approaches from functional ecology and macroecology to address these issues. Dylan is also affiliated with the Data Observatory, where he seeks to advance a new model of science focused on the use of open data to enhance biodiversity research in Chile. For more information on his research interests, see his publications page, or contact Dylan by email (dylan.craven@umayor.cl).
