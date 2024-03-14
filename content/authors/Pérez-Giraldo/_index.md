@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Assoc. Professor of Ecology
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad Mayor
-    url: ''
+  - name: Data Observatory
+    url: 'https://www.dataobservatory.net/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
