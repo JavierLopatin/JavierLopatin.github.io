@@ -70,7 +70,7 @@ email: 'dylan.craven@umayor.cl'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Top Colaborators
 ---
 
 Ecologist, Yale University (School of the Environment)
