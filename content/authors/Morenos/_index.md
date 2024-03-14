@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Sebastian Morenos
+title: Sebastian Moreno
 
 # Full Name (for SEO)
 first_name: Sebastian
-last_name: Morenos
+last_name: Moreno
 
 # Username (this should match the folder name)
 authors:
-  - Moreno
+  - Morenos
 
 # Is this the primary user of the site?
 superuser: false
