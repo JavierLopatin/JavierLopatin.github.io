@@ -11,7 +11,7 @@ authors:
   - Lopatin
 
 # Is this the primary user of the site?
-superuser: fasle
+superuser: true
 
 # Role/position
 role: Assist. Prof. of Remote Sensing

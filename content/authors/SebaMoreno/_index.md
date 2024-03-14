@@ -3,12 +3,12 @@
 title: Sebastián Moreno
 
 # Full Name (for SEO)
-first_name: Sebastian
+first_name: title: Sebastián Moreno
 last_name: Moreno
 
 # Username (this should match the folder name)
 authors:
-  - Moreno
+  - SebaMoreno
 
 # Is this the primary user of the site?
 superuser: false
