@@ -74,4 +74,4 @@ user_groups:
   
 ---
 
-José Miguel focuses on assessing the functional diversity of sclerophyll forests and the impact of climate change on plant functional traits in central Chile. He is assessing the response of functional traits to water stress using classical ecological methods and comparing them with remote sensing methods.
+José Miguel focuses on assessing the functional diversity of sclerophyll forests and the impact of climate change on plant functional traits in central Chile. He is assessing the response of functional traits to water stress using classical ecological methods and comparing them with remote sensing methods. Co-supervisor [Dylan Craven](https://javierlopatin.github.io/author/dylan-craven/).
