@@ -25,10 +25,9 @@ organizations:
 bio: My research interests include ...
 
 interests:
-  - Plant Traits
-  - Radiative Transfer Models
-  - Time Series
   - Deep Learning
+  - Machine Learning
+  - Social Media
 
 education:
   courses:
@@ -77,4 +76,4 @@ user_groups:
   - Top Colaborators
 ---
 
-Moreno... 
+His research focuses in the area of machine learning developing new models for data analysis, specifically in the area of relational data, such as social networks. Sebastian is an active member of the program committees of the most important conferences in his field, including: KDDD, WWW, ICDM, and NIPS. In addition, he has participated in several publicly funded research projects (Fondecyt, PAI), as well as applied projects in industry (FONDEF, Voucher for innovation).
