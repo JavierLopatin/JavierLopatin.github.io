@@ -22,7 +22,7 @@ organizations:
     url: 'https://ingenieria.uai.cl/profesor/sebastian-moreno/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include plant traits, ecosystem processes, phenology, and time series
+bio: My research interests include machine learning, deep learning, and transfer learning.
 
 interests:
   - Machine Learning
