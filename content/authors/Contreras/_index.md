@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Vicente Martinez
+title: Tomás Contreras Delporte 
 
 # Full name (for SEO)
-first_name: Vicente
-last_name: Martinez
+first_name: Tomás
+last_name: Contreras
 
 # Username (this should match the folder name)
 authors:
-  - Martinez
+  - Contreras
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,22 +22,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis áreas de interés son el uso de ciencia de datos en la sostenibilidad de los sistemas de energías y políticas públicas para la transición energética.
+bio: My research interests include remote sensing, sustainability and forecasting.
 
 interests:
-  - Ciencia de datos
-  - Sistemas de energía
-  - Políticas públicas
-  - Transición energética
+  - Artificial Intelligence
+  - Data Science
+  - Business Growth
 
 education:
   courses:
-    - course: Master of Science in Data Science
-      institution: Universidad Adolfo Ibañez
+    - course: Industrial Civil Engineering
+      institution: Adolfo Ibanez University
       year: 2023
-    - course: Ingeniería Civil Informática
-      institution: Universidad Adolfo Ibañez
-      year: 2017
+    - course: Master of Science in Data Science
+      institution: Adolfo Ibanez University
+      year: 2024
 
 
 # Social/Academic Networking
@@ -48,7 +47,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'vicemartinezsancho@gmail.co'
-
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/tomascd__/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +65,4 @@ user_groups:
   - Masters
 ---
 
-Vicente esta haciendo su trabajo de tesis titulada "Evaluación de políticas públicas para la transición energética en Chile basado en modelos de agentes" en colaboración con el profesor [Daniel Olivares](https://ingenieria.uai.cl/profesor/daniel-olivares/).
+Tomas Contreras is a Student of Master of Science in Data Science at the Adolfo Ibanez University. His research interests include Artificial Intelligence, Data Science, Business Growth. His actual research is about the remote sensing of tailings ponds in mining, which develops monitoring of active tailings ponds and extrapolation of monitoring to abandoned tailings ponds.
