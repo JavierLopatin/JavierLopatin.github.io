@@ -3,7 +3,7 @@
 title: Sebastián Moreno
 
 # Full Name (for SEO)
-first_name: Sebastián
+first_name: Sebastian
 last_name: Moreno
 
 # Username (this should match the folder name)
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assist. Prof. of Data Science
+role: Assoc. Prof. of Data Science
 
 # Organizations/Affiliations
 organizations:
