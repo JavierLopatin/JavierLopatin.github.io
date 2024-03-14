@@ -18,8 +18,8 @@ role: PhD student in Data Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad Mayor
-    url: ''
+  - name: Universidad Adolfo Ibáñez
+    url: 'https://datacuber.cl/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Estoy interesado en modelos de Deep Learning aplicados a texto, imágenes y grafos. 
