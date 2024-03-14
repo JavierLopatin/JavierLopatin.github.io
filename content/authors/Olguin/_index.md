@@ -35,9 +35,9 @@ education:
 #    - course: PhD in Artificial Intelligence
 #      institution: Stanford University
 #      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
+    - course: ilustración científica
+      institution: Proyecto Robsonella
+      year: 2023
     - course: Ingeniería en Recursos Naturales
       institution: Universidad de Chile
       year: 2023
