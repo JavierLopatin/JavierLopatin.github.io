@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in rer. nat.
+    - course: PhD In Forest Ecology
       institution: Yale University
       year: 2012
 #    - course: MEng in Artificial Intelligence

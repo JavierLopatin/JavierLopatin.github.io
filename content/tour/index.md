@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Do you whant to work with us?
+      - title: Do you want to work with us?
         content: 'Write us about you research idea'
         align: right
         background:
