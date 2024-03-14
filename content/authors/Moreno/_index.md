@@ -25,21 +25,24 @@ organizations:
 bio: My research interests include plant traits, ecosystem processes, phenology, and time series
 
 interests:
-  - Artificial Intelligence
-  - Artificial Neural Network
-  - Data Mining
+  - Machine Learning
+  - Deep Learning
+  - Transfer Learning
 
 education:
   courses:
-    - course: PhD in Data Science
+    - course: PhD in computer science
       institution: Purdue University, USA.
-      year: 2017
-#    - course: Diplomado en Geomática Aplicada
-#      institution: Universidad de Chile, Chile
-#      year: 2012
-#    - course: Ingeniería en Recursos Naturales Renovables
-#      institution: Universidad de Chile, Chile
-#      year: 2011
+      year: 2014
+    - course: Master of Science in Computer Science concentration Statistics
+      institution: Purdue University, USA.
+      year: 2011
+    - course: Magíster en Ciencias de la Ingeniería Informática
+      institution: Universidad Técnica Federico Santa Maria, Chile
+      year: 2007
+    - course: Ingeniero Civil Informático
+      institution: Universidad Técnica Federico Santa Maria, Chile
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -76,4 +79,4 @@ user_groups:
   - Top Colaborators
 ---
 
-His research focuses in the area of machine learning developing new models for data analysis, specifically in the area of relational data, such as social networks. Sebastian is an active member of the program committees of the most important conferences in his field, including: KDDD, WWW, ICDM, and NIPS. In addition, he has participated in several publicly funded research projects (Fondecyt, PAI), as well as applied projects in industry (FONDEF, Voucher for innovation).
+My research interests include machine learning, neural networks, and relational learning.  Currently, he is focused on the practical application of deep learning (recurrent and convolutional neural networks), and machine learning applications on transportation data. Sebastián has more than 30 papers among the most important conferences in computer science and JCR journals. He has also participated as program committee in more than 40 conference including the most important conferences of his area such as NeurIPS, KDD, WWW, and ICDM.
