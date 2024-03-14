@@ -34,7 +34,7 @@ education:
   courses:
     - course: PhD in rer. nat.
       institution: Karlsruhe Institute of Technology, Germany
-      year: 2012
+      year: 2019
     - course: Diplomado en Geomática Aplicada
       institution: Universidad de Chile, Chile
       year: 2012
