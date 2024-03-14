@@ -63,8 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - PhDs
 ---
 
 Alfonso es un Estudiante de Doctorado en Data Science. Sus intereres están enfocados en la aplicación de algoritmos de Machine Learning y Redes Neuronales a distintos tipos de datos tales como Imágenes, texto libre, grafos, etc. 
