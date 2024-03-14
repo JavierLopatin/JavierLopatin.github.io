@@ -4,7 +4,7 @@ title: Sebastian Moreno
 
 # Full Name (for SEO)
 first_name: Sebastian
-last_name: Moreno
+last_name: Morenos
 
 # Username (this should match the folder name)
 authors:
