@@ -35,7 +35,7 @@ education:
 #    - course: PhD in Artificial Intelligence
 #      institution: Stanford University
 #      year: 2012
-    - course: ilustración científica
+    - course: ilustración científica Icitiológica
       institution: Proyecto Robsonella
       year: 2023
     - course: Ingeniería en Recursos Naturales
