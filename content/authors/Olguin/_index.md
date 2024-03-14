@@ -25,9 +25,10 @@ organizations:
 bio: My research interests include biodiversity, vegetation, and remote sensing
 
 interests:
-  - Plant Ecology
-  - Invasions
-  - Remote sensing
+  - Teledetección
+  - Ecología
+  - Biodiversidad 
+  - Ilustración cientifica y naturalista
 
 education:
   courses:
@@ -37,7 +38,7 @@ education:
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
-    - course: INgeniería en Recursos Naturales
+    - course: Ingeniería en Recursos Naturales
       institution: Universidad de Chile
       year: 2023
 
@@ -73,4 +74,4 @@ user_groups:
   - Assistents and Proyect managers
 ---
 
-Su tesis de pregrado se titulo "CARACTERIZACIÓN ESPACIAL DE LA COMPOSICIÓN VEGETACIONAL DE UN ECOSISTEMA EN ESTADO CRÍTICO: EL BOSQUE MAULINO COSTERO, CHILE." Se puede descargar [acá](https://drive.google.com/file/d/1isBB1Ruza3busCZW45jLLCP7j4O7uQEI/view?usp=drive_link). 
+bio: Ingeniera en Recursos Naturales Renovables con experiencia en data science, teledetección, trabajo de campo y reconocimiento de especies de flora y fauna nativa de Chile central tras diversos trabajos de colaborador de proyectos y por memoria de título enfocada en teledetección aplicada a métricas de paisaje. Paralelamente desarrollándome como ilustradora autónoma de proyectos enfocados a la flora, fauna y funga nativa de Chile. Con manejo de diversas técnicas físicas y digitales
