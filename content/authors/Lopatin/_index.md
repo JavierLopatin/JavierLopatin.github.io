@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'Javier.lopatin@uai.cl'
+    link: 'mailto:Javier.lopatin@uai.cl'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Javier_Lopatin

@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'dylan.craven@umayor.cl'
+    link: 'mailto:dylan.craven@umayor.cl'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DylanJCraven

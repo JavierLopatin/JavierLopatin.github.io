@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'sebastian.moreno@uai.cl'
+    link: 'mailto:sebastian.moreno@uai.cl'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/Javier_Lopatin

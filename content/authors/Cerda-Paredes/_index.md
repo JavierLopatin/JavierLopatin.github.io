@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'jose.cerda@dataobservatory.net'
+    link: 'mailto:jose.cerda@dataobservatory.net'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SiempreElJose

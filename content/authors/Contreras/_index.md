@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'vicemartinezsancho@gmail.co'
+    link: 'mailto:vicemartinezsancho@gmail.co'
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/tomascd__/
