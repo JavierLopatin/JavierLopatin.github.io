@@ -1,7 +1,7 @@
 ---
-title: FONDEF IDeA I+D ID21I10102 (2022-2024)
+title: Sistema de Alerta y Monitoreo Satelital de Áreas de Relevancia Ambiental - casos de estudio en humedales urbanos, turberas y bosque esclerófilo
 
-event: FONDEF IDeA I+D SAMSARA
+event: FONDEF IDeA I+D ID21I10102 (2022-2024)
 event_url: ''
 
 location: 
@@ -12,7 +12,7 @@ location:
 #  postcode: ''
 #  country: Chile
 
-summary: FONDEF IDeA I+D ID21I10102
+summary: FONDEF IDeA I+D ID21I10102  (2022-2024)
 abstract: 'SAMSARA: Sistema de Alerta y Monitoreo Satelital de Áreas de Relevancia Ambiental: casos de estudio en humedales urbanos, turberas y bosque esclerófilo'
 
 # Talk start and end times.

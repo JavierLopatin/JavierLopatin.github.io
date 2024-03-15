@@ -1,7 +1,7 @@
 ---
-title: Data Observatory (2021-present)
+title: Principal Investigator at Data Observatory Foundation
 
-event: Data Observatory
+event: Data Observatory (2021-present)
 event_url: ''
 
 location: 
@@ -12,7 +12,7 @@ location:
 #  postcode: ''
 #  country: Chile
 
-summary: Centro de ciencia del clima y la resiliencia (CR)2 (FONDAP 1511009)
+summary: Data Observatory (2021-present)
 abstract: 
 
 # Talk start and end times.

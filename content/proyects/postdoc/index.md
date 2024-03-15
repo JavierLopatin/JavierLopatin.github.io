@@ -1,7 +1,7 @@
 ---
-title: Fondecyt Postdoc 3210180 (2021-2023)
+title: Assessing the local and landscape drivers of post-fire understory early Pinus radiata invasions in the Coastal Maulino forest using remote sensing data and deep learning techniques
 
-event: Fondecyt Iniciación
+event: Fondecyt Postdoc 3210180 (2021-2023)
 event_url: ''
 
 location: Petorca, Chile
@@ -12,7 +12,7 @@ location: Petorca, Chile
 #  postcode: ''
 #  country: Chile
 
-summary: Fondecyt Iniciación 11241088
+summary: Fondecyt Iniciación 11241088 (2021-2023)
 abstract: 'Assessing the local and landscape drivers of post-fire understory early Pinus radiata invasions in the Coastal Maulino forest using remote sensing data and deep learning techniques '
 
 # Talk start and end times.

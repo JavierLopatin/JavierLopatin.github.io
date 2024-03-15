@@ -1,7 +1,7 @@
 ---
-title: Fondecyt REC SA77210031 (2022-2025)
+title: Efecto de la vegetación en la retroalimentación tierra-atmósfera en la zona mediterránea de Chile
 
-event: Subvención a la Instalación en la Academia
+event: Fondecyt REC  - Subvención a la Instalación en la Academia SA77210031 (2022-2025)
 event_url: ''
 
 location: Mapocho, Chile
@@ -12,7 +12,7 @@ location: Mapocho, Chile
 #  postcode: ''
 #  country: Chile
 
-summary: Subvención a la Instalación en la Academia (SIA) SA77210031
+summary: Fondecyt REC  - Subvención a la Instalación en la Academia SA77210031 (2022-2025)
 abstract: 'Efecto de la vegetación en la retroalimentación tierra-atmósfera en la zona mediterránea de Chile'
 
 # Talk start and end times.

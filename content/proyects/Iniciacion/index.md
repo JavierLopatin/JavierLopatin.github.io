@@ -1,7 +1,7 @@
 ---
-title: Fondecyt Iniciación 11241088 (2024-2027)
+title: Upscaling Ecosystem Resilience to Climate Change in a Mediterranean Ecosystem of Chile using Remote Sensing
 
-event: Fondecyt Iniciación
+event: Fondecyt Iniciación 11241088 (2024-2027)
 event_url: ''
 
 location: Petorca, Chile
@@ -12,7 +12,7 @@ location: Petorca, Chile
 #  postcode: ''
 #  country: Chile
 
-summary: Fondecyt Iniciación 11241088
+summary: Fondecyt Iniciación 11241088 (2024-2027)
 abstract: 'Upscaling Ecosystem Resilience to Climate Change in a Mediterranean Ecosystem of Chile using Remote Sensing'
 
 # Talk start and end times.

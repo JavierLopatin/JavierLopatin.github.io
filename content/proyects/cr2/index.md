@@ -1,5 +1,5 @@
 ---
-title: Center for Climate and Resilience Research (CR)2 (2020-present)
+title: Investigador Adjunto en Línea de Cambio de Uso de Suelo (CUS) en (CR)2 
 
 event: Centro de ciencia del clima y la resiliencia (CR)2
 event_url: ''
