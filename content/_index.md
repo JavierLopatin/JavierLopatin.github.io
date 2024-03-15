@@ -8,13 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Javier Lopatin's Lab - UAI Earth Observation
+        Javier Lopatin
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        We use remote sensing and modelling to answer relevant ecological questions
+        I'm an Asst. Prof. at the Universidad Adolfo Ibáñez, Chile. I work with remote sensing and modeling techniques to answer relevant ecological questions.
+        
+        This website shows the collaborations of my research group, including students and colleagues.
   
   - block: collection
     content:
