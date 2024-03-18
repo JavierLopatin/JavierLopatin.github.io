@@ -66,4 +66,4 @@ user_groups:
   - PhDs
 ---
 
-Alfonso es un Estudiante de Doctorado en Data Science. Sus intereres están enfocados en la aplicación de algoritmos de Machine Learning y Redes Neuronales a distintos tipos de datos tales como Imágenes, texto libre, grafos, etc. 
+Alfonso es un Estudiante de Doctorado en Data Science. Sus intereres están enfocados en la aplicación de algoritmos de Machine Learning y Redes Neuronales a distintos tipos de datos tales como Imágenes, texto libre, grafos, etc. Su tesis esta co-guiada por [Sebastián Moreno](https://www.javierlopatin.com/author/sebastian-moreno-a/).

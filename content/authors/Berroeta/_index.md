@@ -83,4 +83,4 @@ Denis Berroeta is a researcher and analyst specialized in territorial projects u
 
 In addition, he has experience as a professor in areas such as Geostatistics, Territorial Criminology and Satellite Image Analysis for Environmental Monitoring and Natural Disaster Management.
 
-Currently, Denis is pursuing a Master's program and a PhD in Data Science, focusing on the detection of territorial changes in satellite images by using artificial intelligence methodologies
+Currently, Denis is pursuing a Master's program and a PhD in Data Science, focusing on the detection of territorial changes in satellite images by using artificial intelligence methodologies. His thesis is co-supervised by [Sebastián Moreno](https://www.javierlopatin.com/author/sebastian-moreno-a/).

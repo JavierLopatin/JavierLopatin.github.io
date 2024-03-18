@@ -72,6 +72,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Assistents and Proyect managers
+  - Alumni
 ---
 
 bio: Ingeniera en Recursos Naturales Renovables con experiencia en data science, teledetección, trabajo de campo y reconocimiento de especies de flora y fauna nativa de Chile central tras diversos trabajos de colaborador de proyectos y por memoria de título enfocada en teledetección aplicada a métricas de paisaje. 
