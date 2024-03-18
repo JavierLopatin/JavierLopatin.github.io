@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD In Agronomic Sciences
       institution: Montpellier SupAGRO, France.
-      year: 2012
+      year: 2010
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
