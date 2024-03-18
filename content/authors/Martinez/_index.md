@@ -64,4 +64,7 @@ user_groups:
   - Masters
 ---
 
-Vicente esta haciendo su trabajo de tesis titulada "Evaluación de políticas públicas para la transición energética en Chile basado en modelos de agentes" en colaboración con el profesor [Daniel Olivares](https://ingenieria.uai.cl/profesor/daniel-olivares/).
+Vicente esta haciendo su trabajo de tesis titulada "Evaluación de políticas públicas para la transición energética en Chile basado en modelos de agentes".
+
+**Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
+                 - [Daniel Olivares](https://ingenieria.uai.cl/profesor/daniel-olivares/).

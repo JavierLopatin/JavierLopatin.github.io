@@ -73,4 +73,6 @@ user_groups:
   - Masters
 ---
 
-Ecologo de yale.... 
+
+**Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
+                 - [Sebastián Moreno](https://www.javierlopatin.com/author/sebastian-moreno-a/)
