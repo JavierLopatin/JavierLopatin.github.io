@@ -18,8 +18,8 @@ sections:
           - Masters
           - Administration
           - Visitors
-          - Alumni
           - Assistents and Proyect managers
+          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
