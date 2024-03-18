@@ -9,13 +9,10 @@ authors:
 - Zattera, Luca
 - Celis-Diez, Juan
 - Armesto, Juan J
-
-date: '2024'
+date: '2024-03-18'
 publishDate: '2024'
 publication_types:
 - article-journal
 publication: '*Biogeosciences*'
-vol: 21
-number: 5
-pages: "1371--1389"
+abstract: ''
 ---
