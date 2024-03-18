@@ -76,6 +76,6 @@ user_groups:
 ---
 
 bio: Ingeniera en Recursos Naturales Renovables con experiencia en data science, teledetección, trabajo de campo y reconocimiento de especies de flora y fauna nativa de Chile central tras diversos trabajos de colaborador de proyectos y por memoria de título enfocada en teledetección aplicada a métricas de paisaje. 
-Su tesis titulada "CARACTERIZACIÓN ESPACIAL DE LA COMPOSICIÓN VEGETACIONAL DE UN ECOSISTEMA EN ESTADO CRÍTICO: EL BOSQUE MAULINO COSTERO, CHILE" puede ser enontrada [acá](https://drive.google.com/file/d/1isBB1Ruza3busCZW45jLLCP7j4O7uQEI/view?usp=drive_link). Su profesor guía fue Mauricio Galleguillos, y Javier Lopatin fue colaborador. 
+Su tesis titulada "CARACTERIZACIÓN ESPACIAL DE LA COMPOSICIÓN VEGETACIONAL DE UN ECOSISTEMA EN ESTADO CRÍTICO: EL BOSQUE MAULINO COSTERO, CHILE" puede ser enontrada [acá](https://drive.google.com/file/d/1isBB1Ruza3busCZW45jLLCP7j4O7uQEI/view?usp=drive_link). Su profesor guía fue [Mauricio Galleguillos](https://www.javierlopatin.com/author/mauricio-galleguillos/), y [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/) fue colaborador. 
 
 Paralelamente, Nicolé trabaja como ilustradora autónoma de proyectos enfocados a la flora, fauna y funga nativa de Chile. Con manejo de diversas técnicas físicas y digitales
