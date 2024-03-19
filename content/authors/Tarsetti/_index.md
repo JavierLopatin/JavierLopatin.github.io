@@ -69,7 +69,7 @@ user_groups:
   - Masters
 ---
 
-Italo esra elaborando su tesis de magíster titulada "Detección remota del área de masa foliar (LMA) para el análisis de la mega-sequía en Chile central". En esta tesis se utilizan modelo físicos de transferencia radiativa (PROSAIL) y machine learning.
+Italo está trabajando en su tesis de maestría titulada "Teledetección del área de masa foliar (AMF) para el análisis de la megasequía en Chile central". Esta tesis utiliza modelos físicos de transferencia radiativa (PROSAIL) y aprendizaje automático.
 
 **Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
                  - [Laura Pérez](https://www.javierlopatin.com/author/laura-perez-giraldo/).
