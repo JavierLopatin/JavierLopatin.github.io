@@ -22,24 +22,25 @@ organizations:
     url: 'https://www.dataobservatory.net/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote sensing
+  - Agroecology
+  - Ecosystem services
+  - Ecology and Biodiversity
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Ecology and Evolutionary Biology
+      institution: Universidad de Chile
+      year: 2021
+    - course: MSc in Biological Sciences
+      institution: Universidad de Chile
+      year: 2016
+    - course: BSc in Biology
+      institution: Pontificia Univerisdad Javeriana de Colombia 
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +49,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'laura.perez@dataobservatory.net'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/laucapegi
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=kECl0VgAAAAJ&hl=en&authuser=1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +71,4 @@ user_groups:
   - Top Colaborators
 ---
 
-Ecologo de yale.... 
+Laura, a postdoctoral researcher specializing in the evaluation of ecosystem services, focuse on pollination. Using remote sensing, she creates landscape-level models to analyze the use of resources by pollinators and how land use change can affect this process.
