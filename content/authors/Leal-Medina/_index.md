@@ -28,7 +28,16 @@ interests:
   - Remote Sensing
   - Wildfire and climate change 
 
+education:
+  courses:
+    - course: Magíster en Bosques y Medio Ambiente
+      institution: Universidad Austral de Chile
+      year: 2023
+    - course: Ing. Recursos Naturales Renovables
+      institution: Universidad de Chile
+      year: 2020
 
+    
 # Social/Academic Networking
 # For available icons, see: 
 # For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,3 +63,10 @@ user_groups:
 ---
 
 
+Claudia finished her batchelor thesis entitled "COMPOSICIÓN Y ESTRUCTURA DEL BOSQUE MAULINO COSTERO POSTERIOR AL INCENDIO DE “LAS MÁQUINAS” 2017." The manuscript can be access [here](https://drive.google.com/file/d/196bYC6WXv1WL3cHPgHUwPlhQzBQoezNV/view?usp=drive_link).
+
+For her master thesis, Claudia studied the “Detection of _Pinus radiata_ from drone imagery using convolutional neural networks”. The manuscript can be access [here](https://drive.google.com/file/d/1gAnBA3jvTSWgYZjGdhWRtf_5-JEz-TF9/view?usp=drive_link).
+
+
+**Supervisors**: [Mauricio Galleguillos](https://www.javierlopatin.com/author/mauricio-galleguillos/).
+**Colaborator**: [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/)
