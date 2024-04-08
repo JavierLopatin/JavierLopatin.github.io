@@ -23,6 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include remote sensing forest and fires
+
 interests:
   - Forest monitoring
   - Remote Sensing

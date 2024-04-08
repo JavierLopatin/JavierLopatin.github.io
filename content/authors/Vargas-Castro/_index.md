@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ingeniera en Recursos Naturales Renovables. 
+role: Alumni en Recursos Naturales Renovables. 
 
 # Organizations/Affiliations
 organizations:
@@ -22,11 +22,7 @@ organizations:
     url: 'https://uchile.cl/'
 
 # Short bio (displayed in user profile at end of posts)
-
-Constanza es Ingeniera en Recursos Naturales Renovables, se ha desempeñado como profesional analista de datos enfocada en Remote Sensing, SIG, Data Science y Fotogrametría a partir de vuelos de drones. Ha sido técnica de apoyo para el reporte de datos de biodiversidad, ayudante en trabajos de campo, voluntariado en LCOY Chile (2022), ha realizado diversas ayudantías en la Universidad de Chile enfocadas en remote sensing y SIG, y es COO de [Descycling] (http://descycling.cl/), un proyecto financiado por CORFO Semilla Inicia, bajo el alero de OpenBeauchef UCH y UCSC.
-
-Su tesis de grado puede leerse [aquí] (https://drive.google.com/file/d/1TCcgjfBSfH78p0DfiI8h8p5P0cdx_m5U/view?usp=drivesdk), y utiliza la combinación de datos de drones y Sentinel-2 para analizar el bosque maulino costero bajo un indicador de invasión de Pinus radiata, forma parte del FONDECYT 1210932, con Mauricio Galleguillos como profesor guía y colaborador Javier Lopatín.
-
+bio: ''
 
 interests:
   - Remote sensing
@@ -65,7 +61,7 @@ user_groups:
   - Alumni
 ---
 
-Constanza es Ingeniera en Recursos Naturales Renovables, se ha desempeñado como profesional analista de datos enfocada en Remote Sensing, SIG, Data Science y Fotogrametría a partir de vuelos de drones. Ha sido técnica de apoyo para el reporte de datos de biodiversidad, ayudante en trabajos de campo, voluntariado en LCOY Chile (2022), ha realizado diversas ayudantías en la Universidad de Chile enfocadas en remote sensing y SIG, y es COO de [Descycling] (http://descycling.cl/), un proyecto financiado por CORFO Semilla Inicia, bajo el alero de OpenBeauchef UCH y UCSC.
+Constanza es Ingeniera en Recursos Naturales Renovables, se ha desempeñado como profesional analista de datos enfocada en Remote Sensing, SIG, Data Science y Fotogrametría a partir de vuelos de drones. Ha sido técnica de apoyo para el reporte de datos de biodiversidad, ayudante en trabajos de campo, voluntariado en LCOY Chile (2022), ha realizado diversas ayudantías en la Universidad de Chile enfocadas en remote sensing y SIG, y es COO de [Descycling](http://descycling.cl/), un proyecto financiado por CORFO Semilla Inicia, bajo el alero de OpenBeauchef UCH y UCSC.
 
-Su tesis de grado puede leerse [aquí] (https://drive.google.com/file/d/1TCcgjfBSfH78p0DfiI8h8p5P0cdx_m5U/view?usp=drivesdk), y utiliza la combinación de datos de drones y Sentinel-2 para analizar el bosque maulino costero bajo un indicador de invasión de Pinus radiata, forma parte del FONDECYT 1210932, con [Mauricio Galleguillos](https://www.javierlopatin.com/author/mauricio-galleguillos/) como profesor guía y colaborador [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
+Su tesis de grado puede leerse [aquí](https://drive.google.com/file/d/1TCcgjfBSfH78p0DfiI8h8p5P0cdx_m5U/view?usp=drivesdk), y utiliza la combinación de datos de drones y Sentinel-2 para analizar el bosque maulino costero bajo un indicador de invasión de Pinus radiata, forma parte del FONDECYT 1210932, con [Mauricio Galleguillos](https://www.javierlopatin.com/author/mauricio-galleguillos/) como profesor guía y colaborador [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
 
