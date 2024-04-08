@@ -59,7 +59,7 @@ user_groups:
   - Masters
 ---
 
-Diego did his master thesis entitled "Sensitivity analysis of land cover models using semantic segmentation and using semantic segmentation and global satellite data global satellite data".
+Diego did his master thesis entitled "Sensitivity analysis of land cover models using semantic segmentation and global satellite data global satellite data".
 
 **Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
                  - [Sebastián Moreno](https://www.javierlopatin.com/author/sebastian-moreno-a/)
