@@ -72,6 +72,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhDs
+  - Alumni
 ---
 
 Alejandra finished her master thesis entitled “Detection of _Pinus radiata_ from drone imagery using convolutional neural networks”. The manuscript can be access [here](https://drive.google.com/file/d/1-p9pdRN4fQx7-DCaLf8lcIIHDoWDOezv/view?usp=drive_link).
