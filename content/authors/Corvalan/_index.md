@@ -56,10 +56,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Masters
+  - Alumni
 ---
 
-Diego did his master thesis entitled "Sensitivity analysis of land cover models using semantic segmentation and global satellite data global satellite data".
+Diego did his master thesis entitled "Sensitivity analysis of land cover models using semantic segmentation and global satellite data global satellite data". His thesis can be found [here](https://drive.google.com/file/d/1MRuO7MHLazlwxRk-Yg99cVoamYeo3-dy/view?usp=drive_link)
 
 **Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
                  - [Sebastián Moreno](https://www.javierlopatin.com/author/sebastian-moreno-a/)
+
