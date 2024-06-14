@@ -71,4 +71,4 @@ user_groups:
   - Top Colaborators
 ---
 
-Laura, a postdoctoral researcher specializing in the evaluation of ecosystem services, focuse on pollination. Using remote sensing, she creates landscape-level models to analyze the use of resources by pollinators and how land use change can affect this process.
+Laura is a postdoctoral researcher specializing in ecosystem service valuation, with a focus on pollination. She uses remote sensing to build landscape-level models to analyze pollinator resource use and how land use change may affect this process.
