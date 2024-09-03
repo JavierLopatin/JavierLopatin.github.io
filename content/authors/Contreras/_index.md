@@ -18,7 +18,7 @@ role: Master student - Master in Science of Data Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad Mayor
+  - name: Universidad Adolfo Ibáñez
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
