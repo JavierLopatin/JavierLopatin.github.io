@@ -62,10 +62,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Masters
+  - Alumni
 ---
 
-Tomas Contreras is a Student of Master of Science in Data Science at the Adolfo Ibanez University. His research interests include Artificial Intelligence, Data Science, Business Growth. His actual research is about the remote sensing of tailings ponds in mining, which develops monitoring of active tailings ponds and extrapolation of monitoring to abandoned tailings ponds.
+Tomas Contreras did his Master of Science in Data Science thesis at the Adolfo Ibanez University. His research interests include Artificial Intelligence, Data Science, Business Growth. His actual research was about the remote sensing of tailings ponds in mining, which develops monitoring of active tailings ponds and extrapolation of monitoring to abandoned tailings ponds.
 
 **Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
                  - [Raúl O'Rayan](https://ingenieria.uai.cl/profesor/raul-oryan/)

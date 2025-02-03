@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student in Data Science
+role: PhD candidat in Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -35,13 +35,13 @@ education:
       institution: Universidad Adolfo Ibáñez
       year: Actually
     - course: MSc in Natural Resources
-      institution: Pontificia Univerisdad Católica de Chile 
+      institution: Pontificia Universidad Católica de Chile 
       year: 2022
     - course: Dip. in Big Data and Machine Learning
-      institution: Pontificia Univerisdad Católica de Chile 
+      institution: Pontificia Universidad Católica de Chile 
       year: 2022
     - course: BSc in Biology
-      institution: Pontificia Univerisdad Católica de Chile 
+      institution: Pontificia Universidad Católica de Chile 
       year: 2018
 
 # Social/Academic Networking
