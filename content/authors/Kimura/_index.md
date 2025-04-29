@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Proyect manager
+role: PhD candidate in Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
+    - course: PhD in Data Science
+      institution: Universidad de Chile
+      year: 2024
     - course: Ingeniería en Recursos Naturales
       institution: Universidad de Chile
       year: 2024
@@ -67,6 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - PhDs
   - Assistents and Proyect managers
 ---
 
