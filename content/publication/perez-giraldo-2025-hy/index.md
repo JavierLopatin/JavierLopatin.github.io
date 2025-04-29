@@ -1,0 +1,36 @@
+---
+title: Environmental heterogeneity mediates plant diversity and ecosystem stability
+  in mountain ecosystems of the Mediterranean Andes
+authors:
+- Laura C Pérez-Giraldo
+- Jose M Cerda-Paredes
+- Dylan Craven
+- Javier Lopatin
+date: '2025-03-01'
+publishDate: '2025-04-29T20:13:29.848689Z'
+publication_types:
+- article-journal
+publication: '*EcoEvoRxiv*'
+abstract: Globally, mountains are highly diverse ecosystems that serve as natural
+  laboratories for testing fundamental ecological theories, while also providing vital
+  ecosystem services. The biodiversity of these ecosystems is largely attributed to
+  their complex topography, which creates gradients of elevation and environmental
+  heterogeneity. These gradients in turn influence the maintenance of ecosystem functions,
+  such as vegetation productivity, over time. However, how topography influences ecosystem
+  stability and its relation with different facets of biodiversity in mountain ecosystems
+  remains relatively unexplored. Here, we evaluated the impacts of environmental heterogeneity
+  and spatial autocorrelation on taxonomic and phylogenetic diversity, and the extent
+  to which they mediate ecosystem stability in a mountain ecosystem. Using a highly-replicated
+  fractal sampling design, we estimated plant taxonomic and phylogenetic diversity
+  locally and across space. We estimated the temporal stability of vegetation productivity
+  with a high-resolution, remotely-sensed vegetation productivity time series in the
+  Mediterranean Andes forest of central Chile. We assessed the effects of topographic
+  gradients as proxies for environmental heterogeneity and local phylogenetic and
+  taxonomic diversity and turnover on ecosystem stability using generalized linear
+  and structural equation models that account for spatial autocorrelation. Our results
+  show that environmental heterogeneity, particularly that associated with topographic
+  ruggedness and elevation, plays a key role in shaping plant diversity and ecosystem
+  stability. While increasing topographic ruggedness and elevation increased taxonomic
+  turnover, structural equation modeling indicated that it decreased taxonomic and
+  phylogenetic
+---
