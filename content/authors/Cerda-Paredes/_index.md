@@ -8,13 +8,13 @@ last_name: Cerda-Paredes
 
 # Username (this should match the folder name)
 authors:
-  - Cerda-Paredes
+  - José Miguel Cerda-Paredes
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD in Data Science, UAI
+role: PhD(c) in Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -25,9 +25,10 @@ organizations:
 bio:  
 
 interests:
-  - Functional diversity
+  - Functional Diversity
   - Ecology
   - Data Science
+  - Remote Sensing
 
 education:
   courses:
@@ -51,13 +52,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jose.cerda@dataobservatory.net'
+    link: 'jose.cerda@dataobservatory.net'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SiempreElJose
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=U6CL5OYAAAAJ&hl=es&oi=ao
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,7 +76,4 @@ user_groups:
   
 ---
 
-José Miguel focuses on assessing the functional diversity of sclerophyll forests and the impact of climate change on plant functional traits in central Chile. He is assessing the response of functional traits to water stress using classical ecological methods and comparing them with remote sensing methods. 
-
-**Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
-                 - [Dylan Craven](https://javierlopatin.github.io/author/dylan-craven/).
+José Miguel focuses on assessing the functional diversity of sclerophyll forests and the impact of climate change on plant functional traits in central Chile. He is assessing the response of functional traits to water stress using classical ecological methods and comparing them with remote sensing methods. Co-supervisor Dylan Craven.
