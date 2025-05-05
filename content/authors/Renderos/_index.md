@@ -18,8 +18,8 @@ role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Data Observatory
-    url: 'https://www.dataobservatory.net/'
+  - name: Universidad Mayor, Universidad Adolfo Ibáñez
+    
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
