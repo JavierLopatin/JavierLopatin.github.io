@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="pub-list">
+  {{ $total := len .Pages }}
+  {{ range $index, $page := .Pages.ByDate.Reverse }}
+  <div class="pub-item">
+    <h2><a href="{{ .RelPermalink }}">{{ sub $total $index }}. {{ .Title }}</a></h2>
+    <div class="article-style">
+      {{ with .Params.authors }}
+      <div class="authors">
+        {{ $authors := delimit . ", " }}
+        {{ partial "authors.html" (dict "authors" $authors) }}
+      </div>
+      {{ end }}
+      {{ if .Params.publication }}
+      <div class="pub-publication">
+        {{ .Params.publication | markdownify }}
+      </div>
+      {{ end }}
+      {{ if .Params.publication_short }}
+      <div class="pub-publication">
+        {{ .Params.publication_short | markdownify }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }} 
