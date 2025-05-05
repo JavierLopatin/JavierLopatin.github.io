@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD candidate in Data Science
+role: PhD in Data Science, UAI
 
 # Organizations/Affiliations
 organizations:
@@ -68,6 +68,5 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhDs
-  - Assistents and Proyect managers
 ---
 

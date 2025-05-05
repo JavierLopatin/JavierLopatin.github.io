@@ -66,5 +66,5 @@ user_groups:
 
 Sebastián focuses on the evaluation of wildland fire-based fuels and parameters for the design of intelligent landscapes. 
 
-**Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
+**PhD Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
                  - [Sebastián Moreno](https://www.javierlopatin.com/author/sebastian-moreno-a/)

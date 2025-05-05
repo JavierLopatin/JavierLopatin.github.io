@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD candidat in Data Science
+role: PhD in Data Science, UAI
 
 # Organizations/Affiliations
 organizations:
