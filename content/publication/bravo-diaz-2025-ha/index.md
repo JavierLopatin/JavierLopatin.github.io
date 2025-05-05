@@ -10,4 +10,5 @@ publishDate: '2025-05-05T16:53:21.092515Z'
 publication_types:
 - article-journal
 publication: '*Neural Comput. Appl.*'
+doi: '10.1007/s00521-025-11267-6'
 ---

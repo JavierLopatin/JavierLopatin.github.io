@@ -15,12 +15,7 @@
         {{ end }}
         {{ if .Params.publication }}
         <div class="pub-publication">
-          {{ .Params.publication | markdownify }}
-        </div>
-        {{ end }}
-        {{ if .Params.publication_short }}
-        <div class="pub-publication">
-          {{ .Params.publication_short | markdownify }}
+          {{ .Params.publication | markdownify }}{{ with .Params.publication_short }} ({{ . }}){{ end }}{{ with .Date }}, {{ .Format "2006" }}{{ end }}{{ with .Params.doi }}, DOI: <a href="https://doi.org/{{ . }}" target="_blank" rel="noopener" style="color: #007bff; text-decoration: underline;">{{ . }}</a>{{ end }}
         </div>
         {{ end }}
       </div>
