@@ -13,7 +13,7 @@ authors: Orellana
 superuser: false
 
 # Role/position
-role: PhD student in Data Science
+role: PhD in Data Science
 
 # Organizations/Affiliations
 organizations:
