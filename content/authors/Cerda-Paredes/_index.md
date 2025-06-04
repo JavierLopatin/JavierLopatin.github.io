@@ -8,7 +8,7 @@ last_name: Cerda-Paredes
 
 # Username (this should match the folder name)
 authors:
-  - José Miguel Cerda-Paredes
+  - Cerda-Paredes
 
 # Is this the primary user of the site?
 superuser: false
