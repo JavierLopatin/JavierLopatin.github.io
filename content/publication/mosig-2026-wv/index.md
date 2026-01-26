@@ -1,0 +1,216 @@
+---
+title: deadtrees.earth — An open-access and interactive database for centimeter-scale
+  aerial imagery to uncover global tree mortality dynamics
+authors:
+- Clemens Mosig
+- Janusch Vajna-Jehle
+- Miguel D Mahecha
+- Yan Cheng
+- Henrik Hartmann
+- David Montero
+- Samuli Junttila
+- Stéphanie Horion
+- Mirela Beloiu Schwenke
+- Michael J Koontz
+- Khairul Nizam Abdul Maulud
+- Stephen Adu-Bredu
+- Djamil Al-Halbouni
+- Muhammad Ali
+- Matthew Allen
+- Jan Altman
+- Lot Amorós
+- Claudia Angiolini
+- Rasmus Astrup
+- Hassan Awada
+- Caterina Barrasso
+- Harm Bartholomeus
+- Pieter S A Beck
+- Aurora Bozzini
+- Joshua Braun-Wimmer
+- Benjamin Brede
+- Fabio Marcelo Breunig
+- Stefano Brugnaro
+- Allan Buras
+- Vicente Burchard-Levine
+- Jesús Julio Camarero
+- Anna Candotti
+- Luka Capuder
+- Erik Carrieri
+- Mauro Centritto
+- Gherardo Chirici
+- Myriam Cloutier
+- Dhemerson Conciani
+- K C Cushman
+- James W Dalling
+- Phuong D Dao
+- Jan Dempewolf
+- Martin Denter
+- Marcel Dogotari
+- Ricardo Díaz-Delgado
+- Simon Ecke
+- Jana Eichel
+- Anette Eltner
+- André Fabbri
+- Maximilian Fabi
+- Fabian Fassnacht
+- Matheus Pinheiro Ferreira
+- Fabian Jörg Fischer
+- Julian Frey
+- Annett Frick
+- Jose Fuentes
+- Selina Ganz
+- Matteo Garbarino
+- Milton García
+- Matthias Gassilloud
+- Antonio Gazol
+- Guillermo Gea-Izquierdo
+- Kilian Gerberding
+- Marziye Ghasemi
+- Francesca Giannetti
+- Jeffrey Gillan
+- Roy Gonzalez
+- Carl Gosper
+- Terry Greene
+- Konrad Greinwald
+- Stuart Grieve
+- André Große-Stoltenberg
+- Jesus Aguirre Gutierrez
+- Anna Göritz
+- Peter Hajek
+- David Hedding
+- Jan Hempel
+- Stien Heremans
+- Melvin Hernández
+- Marco Heurich
+- Eija Honkavaara
+- Bernhard Höfle
+- Robert Jackisch
+- Tommaso Jucker
+- Jesse M Kalwij
+- Sebastian Kepfer-Rojas
+- Pratima Khatri-Chhetri
+- Till Kleinebecker
+- Hans-Joachim Klemmt
+- Tomáš Klouček
+- Niko Koivumäki
+- Nagesh Kolagani
+- Jan Komárek
+- Kirill Korznikov
+- Bartłomiej Kraszewski
+- Stefan Kruse
+- Robert Krüger
+- Helga Kuechly
+- Ivan H Y Kwong
+- Etienne Laliberté
+- Liam Langan
+- Hooman Latifi
+- Claudia Leal-Medina
+- Jan R K Lehmann
+- Linyuan Li
+- Emily Lines
+- Maciej Lisiewicz
+- Javier Lopatin
+- Arko Lucieer
+- Antonia Ludwig
+- Marvin Ludwig
+- Päivi Lyytikäinen-Saarenmaa
+- Qin Ma
+- Nicolas Mansuy
+- José Manuel Peña
+- Giovanni Marino
+- Michael Maroschek
+- M Pilar Martín
+- Darío Martín-Benito
+- Pavan Matham
+- Sabrina Mazzoni
+- Fabio Meloni
+- Annette Menzel
+- Hanna Meyer
+- Mojdeh Miraki
+- Gerardo Moreno
+- Daniel Moreno-Fernández
+- Helene C Muller-Landau
+- Mirko Mälicke
+- Jakobus Möhring
+- Jana Müllerova
+- Setti Sridhara Naidu
+- Davide Nardi
+- Paul Neumeier
+- Mihai Daniel Nita
+- Roope Näsi
+- Lars Oppgenoorth
+- Sagynbek Orunbaev
+- Melanie Palmer
+- Thomas Paul
+- Mattis Pfenning
+- Alastair Potts
+- Gudala Laxmi Prasanna
+- Suzanne Prober
+- Stefano Puliti
+- Antonio J Pérez-Luque
+- Oscar Pérez-Priego
+- Chris Reudenbach
+- Jesús Revuelto
+- Gonzalo Rivas-Torres
+- Philippe Roberge
+- Pier Paolo Roggero
+- Christian Rossi
+- Nadine Katrin Ruehr
+- Paloma Ruiz-Benito
+- Christian Mestre Runge
+- Gabriele Giuseppe Antonio Satta
+- Bruno Scanu
+- Michael Scherer-Lorenzen
+- Felix Schiefer
+- Christopher Schiller
+- Jacob Schladebach
+- Marie-Therese Schmehl
+- Jonathan Schmid
+- Tristan Alexander Schmidt
+- Selina Schwarz
+- Rupert Seidl
+- Thomas Seifert
+- Ana Seifert Barba
+- Elham Shafeian
+- Aurélie Shapiro
+- Leopoldo de Simone
+- Hormoz Sohrabi
+- Salim Soltani
+- Laura Sotomayor
+- Ben Sparrow
+- Benjamin S C Steer
+- Matt Stenson
+- Benjamin Stöckigt
+- Yanjun Su
+- Juha Suomalainen
+- Elisa Tamudo
+- Mauro J Tognetti Barbieri
+- Enrico Tomelleri
+- Michele Torresani
+- Katerina Trepekli
+- Saif Ullah
+- Sami Ullah
+- Josefine Umlauft
+- Nicolás Vargas-Ramírez
+- Can Vatandaslar
+- Vladimir Visacki
+- Michele Volpi
+- Vicente Vásquez
+- Christine Wallis
+- Ben Weinstein
+- Hannah Weiser
+- Serge Wich
+- Tagle Casapia Ximena
+- Pablo J Zarco-Tejada
+- Katherine Zdunic
+- Katarzyna Zielewska-Büttner
+- Raquel Alves de Oliveira
+- Liz van Wagtendonk
+- Vincent von Dosky
+- Teja Kattenborn
+date: '2026-01-01'
+publishDate: '2026-01-26T18:03:40.633256Z'
+publication_types:
+- article-journal
+publication: '*Remote Sens. Environ.*'
+---
