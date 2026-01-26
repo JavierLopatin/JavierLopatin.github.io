@@ -1,5 +1,5 @@
 ---
-title: Informe a las naciones - Carbono neutralidad en Chile: desafíos y oportunidades para un país más justo y resiliente al clima
+title: "Informe a las naciones - Carbono neutralidad en Chile: desafíos y oportunidades para un país más justo y resiliente al clima"
 date: 2026-01-10
 image:
   focal_point: ''
