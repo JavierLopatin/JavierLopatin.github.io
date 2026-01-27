@@ -66,10 +66,42 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Masters
+  - Alumni
 ---
 
-Italo está trabajando en su tesis de maestría titulada "Teledetección del área de masa foliar (AMF) para el análisis de la megasequía en Chile central". Esta tesis utiliza modelos físicos de transferencia radiativa (PROSAIL) y aprendizaje automático.
+Tesis de maestría titulada "Influencia de la topograf ́ıa en la estimaci  ́on de rasgos funcionales de la vegetaci  ́on a partir de datos hiperespectrales EnMAP en ecosistemas mediterr  ́aneos monta  ̃nosos de Chile central".
+
+La estimaci ́on de rasgos funcionales mediante teledetecci ́on hiperespectral es fun-
+damental para monitorear ecosistemas bajo cambio clim ́atico. Sin embargo, en te-
+rrenos monta ̃nosos, los efectos topogr ́aficos introducen distorsiones espectrales que
+comprometen estas estimaciones. Este estudio cuantifica la influencia de variables
+topogr ́aficas (elevaci  ́on, pendiente y orientaci ́on) sobre la estimaci  ́on de cuatro ras-
+gos funcionales clave: contenido de clorofila (CAB), agua foliar (CW), materia seca
+foliar (CM) e  ́ındice de  ́area foliar (LAI), utilizando datos del sensor hiperespectral
+EnMAP  en  ecosistemas  mediterr ́aneos  monta ̃nosos  de  Chile  central  bajo  megase-
+qu ́ıa. Se evaluaron tres m ́etodos de inversi ́on: regresi ́on por m ́ınimos cuadrados par-
+ciales (PLS), redes neuronales convolucionales entrenadas con simulaciones PRO-
+SAIL  (CNN-PROSAIL),  y  redes  neuronales  preentrenadas  mediante  transfer  lear-
+ning (CNN-Global), validados contra 122 parcelas de campo en un gradiente altitu-
+dinal de 1280 a 2362 m.s.n.m. Se aplicaron Modelos Aditivos Generalizados (GAM)
+con distribuci ́on Gamma para cuantificar la proporci ́on de varianza de error expli-
+cada por topograf ́ıa.
+Los tres m ́etodos evaluados presentaron ausencia total de capacidad predictiva, con
+coeficientes de determinaci ́on negativos (R² entre − 0,01 y − 1425,71), indicando des-
+empe ̃no inferior al modelo nulo. En contraste, los an ́alisis GAM demostraron que
+las variables topogr ́aficas explican entre 28 % (CAB) y 59 % (CW) de la varianza de
+errores, con relaciones altamente no lineales (grados de libertad efectivos: 0.63–0.88).
+El contenido de agua foliar present ́o la mayor dependencia topogr ́afica (pseudo-R² =
+59 %), consistente con gradientes microclim ́aticos modulados por elevaci ́on y orien-
+taci ́on, mientras que la clorofila mostr ́o la menor dependencia (28 %), sugiriendo ma-
+yor robustez espectral frente a efectos geom ́etricos de iluminaci ́on. En ecosistemas
+monta ̃nosos  bajo  megasequ ́ıa,  la  variabilidad  topogr ́afica  domina  completamente
+las se ̃nales bioqu ́ımicas, comprometiendo la aplicabilidad de m ́etodos de inversi ́on
+sin correcci ́on topogr ́afica previa.
+
+Palabras clave: topograf ́ıa, rasgos funcionales, EnMAP, hiperespectral, inversi ́on h ́ıbri- da, modelos aditivos generalizados, ecosistemas mediterr ́aneos, megasequ ́ıa.
+
+
 
 **Supervisors**: - [Javier Lopatin](https://www.javierlopatin.com/author/javier-lopatin/).
                  - [Laura Pérez](https://www.javierlopatin.com/author/laura-perez-giraldo/).
